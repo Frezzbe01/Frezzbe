@@ -24,7 +24,7 @@
 </div>
 <hr />
 
-🔗 &nbsp;**Contact with me**
+=> &nbsp;**Contact with me**
 <br clear="both">
 
 <div align="left">
@@ -44,14 +44,14 @@
 <hr />
 
 
-🔗 &nbsp;**Database**
+=> &nbsp;**Database**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
 </div>
 <hr />
 
 
-🔗 &nbsp; **Software Languages**
+=> &nbsp; **Software Languages**
 <br clear="both">
 
 <div align="left">
@@ -64,7 +64,7 @@
 <hr />
 
 
-🔗 &nbsp;**Programs**
+=> &nbsp;**Programs**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
