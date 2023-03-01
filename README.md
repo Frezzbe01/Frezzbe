@@ -24,7 +24,7 @@
 </div>
 <hr />
 
-=> &nbsp;**Contact with me**
+&nbsp;**Contact with me**
 <br clear="both">
 
 <div align="left">
